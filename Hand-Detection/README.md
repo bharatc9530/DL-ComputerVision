@@ -2,4 +2,4 @@
 
 ![Hand-Detection](bharatc9530/DL-ComputerVision/blob/main/Hand-Detection/fig.pdf Hand)
 
-<img src="https://github.com/bharatc9530/DL-ComputerVision/blob/main/Hand-Detection/fig.pdf" width="100%">
+<img src="blob/main/Hand-Detection/fig.pdf" width="100%">
