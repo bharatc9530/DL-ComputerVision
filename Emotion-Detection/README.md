@@ -15,7 +15,7 @@ Data is Taken from Open Source available on kaggle
 ```
       ├── haarcascade_frontalface_default.xml (Face Detection Haarcascade File)
       ├── bestweight.h5 (Trained weight)
-      ├── Classification.ipynb (Image Classifcation model, preprocessing, Visualization, Result analysis) 
+      ├── Classification.ipynb (Image Classification model, preprocessing, Visualization, Result analysis) 
       │    ├── webcam.ipynb (Prediction using webcam)
       │    └── test (Test dataset)
 ``` 
