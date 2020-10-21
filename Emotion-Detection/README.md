@@ -1,6 +1,6 @@
 # Emotion Detection Using Deep learning and opencv
 
-## Image Classifcation model in build on Facial data to predict Happy, Sad and Neutral Emotion
+## Image Classification model in build on Facial data to predict Happy, Sad and Neutral Emotion
 
 ## Frontal Face haar casade file is use to detect face in real time image and bounding for image is predicted
 
